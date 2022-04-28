@@ -1,0 +1,31 @@
+{
+  "id": "rrrr",
+  "measurement": "acc\ntemp\nhumi\nuv",
+  "info": "test",
+  "length": 32173,
+  "file": "F3716462",
+  "varName": [
+    "acc",
+    "temp",
+    "press",
+    "humi"
+  ],
+  "varNameLength": [
+    3,
+    4,
+    5,
+    4
+  ],
+  "varType": [
+    "f",
+    "f",
+    "f",
+    "f"
+  ],
+  "varBytes": [
+    4,
+    4,
+    4,
+    4
+  ]
+}
